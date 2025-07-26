@@ -9,8 +9,8 @@
 
 <!-- 🔗 CONNECT LINKS -->
 <div align="center">
-    <a href="https://www.linkedin.com/in/jaideep-shekhawat/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Jaideep%20Shekhawat-blue?style=for-the-badge&logo=linkedin" />
+    <a href="https://www./" target="_blank">
+        <img src="https://img.shields.io/badge/" />
     </a>
     <a href="mailto:jaishekhawat">
         <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
