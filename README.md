@@ -42,12 +42,6 @@
 
 ---
 
-### 📊 LeetCode Stats
-
-<p align="center">
-    <img src="https://leetcard.jacoblin.cool/Jai_adi?theme=dark&font=JetBrains+Mono&ext=activity" width="90%" />
-</p>
-
 ---
 
 ### 🧰 Languages & Tools
